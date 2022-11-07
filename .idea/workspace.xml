@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Dsa Complexity">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmAnalysis/BigOExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaExamples/ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedListTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/AbstractionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/EncapsulationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/InheritanceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/InheritanceExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/PolymorphismExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/PolymorphismOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/IAnimall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/TestAnimall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/TestPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666034231284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dsa Complexity">
+      <created>1667162800325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667162800325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

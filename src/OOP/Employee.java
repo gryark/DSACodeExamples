@@ -3,7 +3,7 @@ package OOP;
 import java.util.Date;
 
 public class Employee {
-    private String name;
+    private String name; //instance variables
     private Date birthDate;
 
     public String getName() {
