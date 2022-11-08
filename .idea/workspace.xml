@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Dsa Complexity">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/IAnimall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/TestAnimall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/TestPerson.java" afterDir="false" />
+    <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Week 4">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PhraseOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4JavaReview/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Arrays" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667162800325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week 4">
+      <created>1667844464706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667844464706</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Week 4">
+      <created>1667844514397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667844514397</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Dsa Complexity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa Complexity" />
+    <MESSAGE value="Week 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
