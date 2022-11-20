@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Week 4">
+      <change afterPath="$PROJECT_DIR$/src/Stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ArrayStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/JavaStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ReverseArrayWithStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackMatcherExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667890958736</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Week 4">
+      <created>1667898489351</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667898489351</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
