@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Week 4">
-      <change afterPath="$PROJECT_DIR$/src/Stack/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/ArrayStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/JavaStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/ReverseArrayWithStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/StackMatcherExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ArrayStackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GH5tM6cbZWajjBsceaH2ba8X2X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -114,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667898489351</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Week 4">
+      <created>1668939726081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668939726082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +137,17 @@
     <MESSAGE value="Dsa Complexity" />
     <MESSAGE value="Week 4" />
     <option name="LAST_COMMIT_MESSAGE" value="Week 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/LinkedListSimple.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
