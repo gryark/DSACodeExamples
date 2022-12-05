@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Week 4">
-      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ArrayStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/FactorialRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669141806117</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Week 4">
+      <created>1669142131318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669142131318</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +161,11 @@
           <url>file://$PROJECT_DIR$/src/LinkedList/LinkedListSimple.java</url>
           <line>18</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/RecursionExamples.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
