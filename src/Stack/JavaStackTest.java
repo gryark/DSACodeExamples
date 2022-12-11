@@ -1,8 +1,10 @@
 package Stack;
 
-import java.util.Stack;
+import java.util.*;
 
 public class JavaStackTest {
+
+
     public static void main(String[] args) {
         Stack<Integer> stack=new Stack<>();
         System.out.println(stack.empty());

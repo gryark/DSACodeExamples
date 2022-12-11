@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d071abd-fad6-4f4e-a3ff-a749adb31079" name="Changes" comment="Week 4">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/FactorialRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ExampleForMohammed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/BinarySearch/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/BinaryTree/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/BinaryTree/BinaryTreeSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/BinaryTree/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/BinaryTree/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/JavaUsage/UsingTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/FactorialRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/FactorialRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/JavaStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/JavaStackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/udemy_course_learning/spring-boot-en1/databese-demo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
@@ -134,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669142131318</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Week 4">
+      <created>1670254700943</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670254700943</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +185,11 @@
           <url>file://$PROJECT_DIR$/src/Recursion/RecursionExamples.java</url>
           <line>73</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/SumClass.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
