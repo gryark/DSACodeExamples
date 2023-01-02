@@ -1,13 +1,19 @@
 package Trees.JavaUsage;
 
+import java.util.Map;
 import java.util.Random;
+import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class UsingTree {
-    static int size = 100000;
+public class UsingTreeWithJava {
+    static int size = 10000000;
 
     public static void main(String[] args) {
         /* tree performance */
+//        Map<String, Integer> mytreeMap=new TreeMap<>();
+//        mytreeMap.put("Number1", 10);
+
+
         long startTimeToCreateTree = System.currentTimeMillis();
         TreeSet<Integer> treeSet = new TreeSet<>();
         setRandomSet(treeSet);
